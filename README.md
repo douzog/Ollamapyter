@@ -2,8 +2,6 @@ Since joining Æthos-Sundai, an ethical-AI-accelerationr slash hacker-foundation
 
 For my first Sundai @ MIT IHQ, I decided to provide simple code for the community to use LLMs in a private manner.
 
-I hope you enjoy these spawned from hacks at Æthos-Sundai!
-
 If you have questions regarding open-source ML, feel free to contact me!
 
 🥷🏼👾 douzog(@)proton.me
